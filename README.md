@@ -1,3 +1,5 @@
+Also see: https://github.com/alii/zed-tomorrow-night-burns
+
 ![Screenshot](./screnshot.png)
 
 # tomorrow-night-burns for VSCode
